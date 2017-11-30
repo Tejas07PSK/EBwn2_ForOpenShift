@@ -13,15 +13,15 @@
       </property>
       
       <property name = "hibernate.connection.url">
-         jdbc:mysql://localhost:3306/eBWN
+         jdbc:mysql://mysql:3306/eBWN
       </property>
       
       <property name = "hibernate.connection.username">
-         palashsarkaradmin
+         flct
       </property>
       
       <property name = "hibernate.connection.password">
-         tejas!!
+         aps_flct
       </property>
       
       <property name = "connection.pool_size">
